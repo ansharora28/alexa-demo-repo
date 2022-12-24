@@ -1,1 +1,1 @@
-hey,this is a demo repo illustrating basics of git and github.
+hey,this is a demo repo illustrating basics of git and github covered in an introductory session.
